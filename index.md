@@ -35,11 +35,7 @@ My to-do list of potential projects looks kind of like this:
 
 And so on...
 
-Despite my short list of projects, I was able to intern over the summer working from home! I was able to try out database development for a company in Austin. This included a lot of 
-`SELECT * FROM table` 
-And sometimes the occasional
-`UPDATE table WHERE...`
-to dumb it down.
+Despite my short list of projects, I was able to intern over the summer working from home! I was able to try out database development for a company in Austin. This included a lot of `SELECT * FROM table` and sometimes the occasional `UPDATE table WHERE...` to dumb it down.
 
 One of the defining quotes from my mentor was
 > "Well, you're up quite early"
