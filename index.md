@@ -1,5 +1,9 @@
 # All About Me (Alexander Olsen)!
 
+Table of Contents
+[Who I am](#who-i-am)
+[Coding Experience](#coding-experience)
+
 ## Who I Am
 
 Hello! I am Alexander Olsen, a third year Computer Science student. I grew up in Oceanside, CA, where I currently commute from every day. Outside of academics, I help run the social media for the UCSD Guardian, but haven't gotten around to writing an article yet. For a full professional overview, you can check out [my LinkedIn](https://www.linkedin.com/in/alexander-w-olsen/).
@@ -28,6 +32,15 @@ My to-do list of potential projects looks kind of like this:
 - [ ] Make my girlfriend a website
 - [ ] Make my dad a website
 - [x] Sudoku Solver
+
 And so on...
 
-Despite my short list of projects, I was able to intern over the summer working from home!  
+Despite my short list of projects, I was able to intern over the summer working from home! I was able to try out database development for a company in Austin. This included a lot of 
+`SELECT * FROM table` 
+And sometimes the occasional
+`UPDATE table WHERE...`
+to dumb it down.
+
+One of the defining quotes from my mentor was
+> "Well, you're up quite early"
+
