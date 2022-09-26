@@ -1,8 +1,8 @@
 # All About Me (Alexander Olsen)!
 
 Table of Contents
-[Who I am](#who-i-am)
-[Coding Experience](#coding-experience)
+  - [Who I Am](#who-i-am)
+  - [Coding Experience](#coding-experience)
 
 ## Who I Am
 
